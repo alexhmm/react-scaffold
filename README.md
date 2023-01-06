@@ -2,6 +2,21 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Scaffold of my current Frontend Techstack (2023).
+
+## Techstack
+
+- [CSS Modules](https://github.com/css-modules/css-modules)
+- [Font Awesome](https://fontawesome.com/)
+- [I18next](https://www.i18next.com/)
+- [Material UI](https://mui.com/)
+- [React Router](https://reactrouter.com/)
+- [Syntactically Awesome Style Sheets](https://sass-lang.com/)
+- [Tailwindcss](https://tailwindcss.com/)
+- [TanStack Query](https://tanstack.com/query/v4)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Zustand](https://github.com/pmndrs/zustand)
+
 ## Available Scripts
 
 In the project directory, you can run:
